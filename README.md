@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Weineel Lee</h1>
+
+### About me
+
+I'm currently working in Patsnap as a Front End Framework Developer.
 
 <!--
 **weineel/weineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
