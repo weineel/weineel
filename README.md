@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm currently working in Patsnap as a Front End Framework Developer.
+I currently work as a front-end framework development engineer.
 
 <!--
 **weineel/weineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
