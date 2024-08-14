@@ -2,7 +2,7 @@
 
 ### About me
 
-I currently work as a front-end framework development engineer.
+I currently work as a front-end development engineer.
 
 <!--
 **weineel/weineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
