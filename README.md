@@ -4,6 +4,8 @@
 
 I currently work as a front-end development engineer.
 
+![](https://github-readme-stats.vercel.app/api?username=weineel&show_icons=true)
+
 <!--
 **weineel/weineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
