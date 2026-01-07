@@ -2,7 +2,7 @@
 
 ### About me
 
-I currently work as a front-end development engineer.
+I currently work as a Full Stack Engineer.
 
 ![](https://github-readme-stats.vercel.app/api?username=weineel&show_icons=true)
 
