@@ -4,7 +4,15 @@
 
 I currently work as a Full Stack Engineer.
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=weineel&show_icons=true)
+
+<img src="https://streak-stats.demolab.com?user=weineel&theme=tokyonight&hide_border=true" alt="weineel's GitHub Stats" />
+-->
+
+![](https://streak-stats.demolab.com?user=weineel&theme=default&hide_border=true)
+
+![](https://github-stats-extended.vercel.app/api?username=weineel&show_icons=true)
 
 <!--
 **weineel/weineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
